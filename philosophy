@@ -24,3 +24,35 @@ Without:
 ✘ Exposing intellectual property  
 ✘ Enabling competitive cloning  
 ✘ Creating risk for enterprise clients  
+
+GenericML is designed to give enterprises a decisive advantage in AI/ML 
+without the complexity and fragility of Python-centric pipelines, 
+heavy MLOps, or GPU-dependent AutoML frameworks.
+
+Releasing the SDK as open-source would:
+- eliminate competitive advantage for our clients,
+- allow competitors to replicate core design strategies,
+- reduce enterprise willingness to adopt the platform,
+- undermine commercial licensing models,
+- introduce fragmentation and unofficial forks,
+- create security, compliance, and IP risks.
+
+By keeping the SDK private:
+✔ Clients retain a structural advantage in their industry  
+✔ Architecture remains coherent and unified  
+✔ Performance optimizations remain exclusive  
+✔ Security posture stays controlled  
+✔ The innovation cycle stays rapid and focused  
+
+The **ideas**, **philosophy**, and **architecture** are open for discussion.  
+The **actual implementation** remains proprietary.
+
+This approach mirrors the model used successfully by:
+- Palantir Foundry  
+- SAS  
+- C3.ai  
+- FICO  
+- Bloomberg ML  
+- Snowflake ML  
+
+Open ideas, closed engines.

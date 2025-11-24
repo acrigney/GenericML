@@ -1,0 +1,26 @@
+# Why GenericML is Proprietary
+
+GenericML is designed as an enterprise-grade framework that provides 
+a competitive edge to clients across healthcare, energy, biotech, 
+mining, trading, forestry, and public-sector AI.
+
+Releasing the SDK as open-source would:
+- Reduce the competitive advantage of our clients.
+- Allow competitors to replicate core design innovations.
+- Undermine commercial licensing agreements.
+- Create security and compliance risks.
+- Slow the evolution of the core technology.
+
+Therefore, GenericML remains **closed-source**, and only the 
+conceptual and architectural documentation is published publicly.
+
+This allows:
+✔ Transparent evaluation  
+✔ Academic/discussion freedom  
+✔ Establishment of prior art  
+✔ Community awareness  
+
+Without:
+✘ Exposing intellectual property  
+✘ Enabling competitive cloning  
+✘ Creating risk for enterprise clients  

@@ -48,7 +48,16 @@ the framework and understand the design principles.
 - Enterprise adoption plan
 - Research & academic directions
 
----
+## 🚫 No SDK Code Included
+
+The GenericML SDK is **proprietary** and not part of this repository.  
+Clients access the SDK under enterprise licence.
+
+This repo is intended for:
+- evaluation,
+- research,
+- architectural understanding,
+- establishing prior art.
 
 ## Licensing
 

@@ -25,8 +25,8 @@ the framework and understand the design principles.
 ## Contents
 
 ### 📘 Whitepaper
-- `/whitepaper/GenericML_Whitepaper_v1.0.md`
-- `/whitepaper/GenericML_Whitepaper_v1.0.pdf`
+- `GenericML_Whitepaper_v1.0.md`
+- `GenericML_Whitepaper_v1.0.pdf`
 - Executive summaries
 - Diagrams and conceptual figures
 

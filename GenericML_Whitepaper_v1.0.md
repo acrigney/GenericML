@@ -277,6 +277,8 @@ This preserves:
 - Domain Packs for healthcare, mining, trading  
 
 ## 2026 — Expansion
+- 2026–2027 — Partner Deployments
+- 2027 — reference architecture available
 - Human-in-the-loop UX kit  
 - Real-time ML streaming engine  
 - Enterprise data connectors (FHIR/HL7/S3/SQL)  

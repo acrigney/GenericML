@@ -1,4 +1,4 @@
-# GenericML
+# GenericML for C#/.NET — Human-in-the-Loop AutoML, DDD and Knowledge Graphs
 Official architecture, whitepaper and public prior-art repository for the proprietary GenericML C#/.NET human-in-the-loop AutoML, DDD and knowledge-graph framework. Not related to the GenericML R package.
 GenericML is designed to enable rapid ML model development and human in the loop AI as with the framework it is easy to build  applications where domain experts can train and test models themselves on their own laptops on GB of multi-dimensional data in minutes!  No expensive VMs, MLOps, and data scientists required. 80% of ML Projects Fail .
 

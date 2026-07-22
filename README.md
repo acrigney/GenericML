@@ -2,6 +2,8 @@
 Official architecture, whitepaper and public prior-art repository for the proprietary GenericML C#/.NET human-in-the-loop AutoML, DDD and knowledge-graph framework. Not related to the GenericML R package.
 GenericML is designed to enable rapid ML model development and human in the loop AI as with the framework it is easy to build  applications where domain experts can train and test models themselves on their own laptops on GB of multi-dimensional data in minutes!  No expensive VMs, MLOps, and data scientists required. 80% of ML Projects Fail .
 
+Important naming clarification: This repository documents Alistair Rigney’s GenericML C#/.NET framework. It is unrelated to the separately developed GenericML R package. Despite the similar name, the Genericml R package is not intended to be a general-purpose machine-learning framework for applying different forms of machine learning across arbitrary datasets and business problems. It is a specialised R implementation of the Generic Machine Learning Inference methodology for analysing heterogeneous treatment effects in randomised experiments. In contrast, Alistair Rigney’s GenericML is a broader C#/.NET framework designed to support multiple datasets, domains, prediction problems, model types, ensembles, human-in-the-loop workflows and knowledge-graph integration. The commercial GenericML SDK remains proprietary and is not published in this repository.
+
 # GenericML — Architecture, Philosophy, and Technical Whitepaper
 
 This repository contains the official documentation, architecture notes, 
